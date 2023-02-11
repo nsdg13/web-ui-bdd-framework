@@ -1,0 +1,25 @@
+{
+  "testData": {
+    "commonTestData" : {
+      "key1" : "value1",
+      "key2" : "value2"
+    },
+    "Purna_TC_001" : {
+      "username" : "admin",
+      "password" : "admin",
+      "expectedUrl":"https://www.purnadata.in/PurnaDemo/sale_dashboard.php"
+    },
+    "Purna_TC_002" : {
+      "username" : "mark@gmail.com",
+      "password" : "waugh"
+    },
+    "Purna_TC_003" : {
+      "username" : "mark@gmail.com",
+      "password" : "taylor"
+    },
+    "Purna_TC_004" : {
+      "username" : "mark@gmail.com",
+      "password" : "taylor"
+    }
+  }
+}
